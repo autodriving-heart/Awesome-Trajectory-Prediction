@@ -10,7 +10,7 @@
 
 ## 一、行人轨迹预测相关 Pedestrian trajectory prediction correlation 
 
-### 1.行人轨迹预测方法汇总 Summary of pedestrian trajectory prediction methods
+### 1. 行人轨迹预测方法汇总 Summary of pedestrian trajectory prediction methods
 
 Y-Net: From goals, waypoints & paths to long term human trajectory forecasting, ICCV 2021
 
@@ -110,7 +110,7 @@ STF-RNN: Space Time Features-based Recurrent Neural Network for predicting Peopl
 
 ## 二、车辆轨迹预测 Summary of pedestrian trajectory prediction methods
 
-### 1.车辆轨迹预测 Vehicle trajectory prediction
+### 1. 车辆轨迹预测 Vehicle trajectory prediction
 
 PTNet: Physically Feasible Vehicle Trajectory Prediction, NeurIPS ML4AD Workshop
 
@@ -152,7 +152,7 @@ Multimodal Trajectory Prediction: A Survey
 
 ## **三、方法论** methodology
 
-### 1.**经典方法汇总（包括基于物理、机器学习、深度学习、强化学习）**
+### 1. **经典方法汇总（包括基于物理、机器学习、深度学习、强化学习）**
 
 ### Summary of classical methods (including physics-based, machine learning, deep learning, reinforcement learning)
 
