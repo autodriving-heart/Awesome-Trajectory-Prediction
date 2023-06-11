@@ -110,7 +110,7 @@ STF-RNN: Space Time Features-based Recurrent Neural Network for predicting Peopl
 
 ## 二、车辆轨迹预测 Summary of pedestrian trajectory prediction methods
 
-### 1.**车辆轨迹预测 ** Vehicle trajectory prediction
+### 1.车辆轨迹预测 Vehicle trajectory prediction
 
 PTNet: Physically Feasible Vehicle Trajectory Prediction, NeurIPS ML4AD Workshop
 
