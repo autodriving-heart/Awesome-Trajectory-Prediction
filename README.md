@@ -8,9 +8,9 @@
 
 
 
-## 一、行人轨迹预测相关 Pedestrian trajectory prediction correlation 
+## 一、Pedestrian trajectory prediction correlation 
 
-### 1. 行人轨迹预测方法汇总 Summary of pedestrian trajectory prediction methods
+### 1. Summary of pedestrian trajectory prediction methods
 
 Y-Net: From goals, waypoints & paths to long term human trajectory forecasting, ICCV 2021
 
@@ -108,9 +108,9 @@ STF-RNN: Space Time Features-based Recurrent Neural Network for predicting Peopl
 
 [[code]](https://github.com/mhjabreel/STF-RNN)
 
-## 二、车辆轨迹预测 Summary of pedestrian trajectory prediction methods
+## 二、Summary of pedestrian trajectory prediction methods
 
-### 1. 车辆轨迹预测 Vehicle trajectory prediction
+### 1. Vehicle trajectory prediction
 
 PTNet: Physically Feasible Vehicle Trajectory Prediction, NeurIPS ML4AD Workshop
 
@@ -150,15 +150,13 @@ Multimodal Trajectory Prediction: A Survey
 
 
 
-## **三、方法论** methodology
+## 三、methodology
 
-### 1. **经典方法汇总（包括基于物理、机器学习、深度学习、强化学习）**
+### 1. Summary of classical methods (including physics-based, machine learning, deep learning, reinforcement learning)
 
-### Summary of classical methods (including physics-based, machine learning, deep learning, reinforcement learning)
+#### Physics-based approach
 
-#### **基于物理的方法** Physics-based approach
-
-##### **单轨迹**  Single track
+##### Single track
 
 Vehicle dynamics and external disturbance estimation for vehicle path prediction
 
@@ -174,7 +172,7 @@ An adaptive peer-to-peer collision warning system
 
 A multilevel collision mitigation approach-its situation assessment, decision making, and performance tradeoffs
 
-##### **卡尔曼滤波** Kalman filtering
+##### Kalman filtering
 
 Real time trajectory prediction for collision risk estimation between vehicles
 
@@ -190,7 +188,7 @@ A method for connected vehicle trajectory prediction and collision warning algor
 
 Interaction-aware motion prediction for autonomous driving:Amultiple model Kalman filtering scheme
 
-##### **蒙特卡洛** Monte Carlo
+##### Monte Carlo
 
 Monte Carlo road safety reasoning
 
@@ -200,7 +198,7 @@ Driver intention-based vehicle threat assessment using random forests and partic
 
 Trajectory planning and safety assessment of autonomous vehicles based onmotion prediction and model predictive control
 
-#### **机器学习** Machine learning
+#### Machine learning
 
 ##### **Gaussian Process**
 
@@ -262,9 +260,9 @@ A dynamic Bayesian network for vehicle maneuver prediction in highway driving sc
 
 Pedestrian trajectory prediction combining probabilistic reasoning and sequence learning
 
-#### **深度学习** Deep Learning
+#### Deep Learning
 
-##### **序列网络** Sequence Network
+##### Sequence Network
 
 A recurrent neural network solution for predicting driver intention at unsignalized intersections
 
@@ -384,7 +382,7 @@ Stgat: Modeling spatialtemporal interactions for human trajectory prediction
 
 Stochastic trajectory predictionwith social graph network
 
-##### **生成式模型** Generative Model
+##### Generative Model
 
 Learning to predict vehicle trajectories with model-based planning
 
@@ -416,7 +414,7 @@ Implicit latent variable model for scene-consistent motion forecasting
 
 
 
-#### **基于强化学习** Reinforcement Learning
+#### Reinforcement Learning
 
 ##### **Inverse Reinforcement Learning**
 
@@ -470,6 +468,6 @@ Off-road autonomous vehicles traversability analysis and trajectory planning bas
 
 Incorporating multi-context into the traversability map for urban autonomous driving using deep inverse reinforcement learning
 
-### **2022最新轨迹预测综述** 2022 Latest Trajectory Forecast Survey
+### 2022 Latest Trajectory Forecast Survey
 
 A Survey on Trajectory-Prediction Methods for Autonomous Driving
